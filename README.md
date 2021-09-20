@@ -1,7 +1,8 @@
 # Rick-And-Morty-App
 ![iOS](https://img.shields.io/badge/iOS-10%20-blue)
 ![Swift](https://img.shields.io/badge/Swift-5-orange?logo=Swift&logoColor=white)
-[![License](https://img.shields.io/github/license/romarakhlin/Rick-And-Morty-App)](https://github.com/romarakhlin/Rick-And-Morty-App/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/romanrakhlin/Rick-And-Morty-App)](https://github.com/romanrakhlin/Rick-And-Morty-App/blob/master/LICENSE)
+
 IOS App that works with official API https://rickandmortyapi.com
 
 ## Screenshots
