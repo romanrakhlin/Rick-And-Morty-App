@@ -11,7 +11,7 @@ IOS App that works with official API https://rickandmortyapi.com
 </p>
 
 ## How's it works
-
+I've used only native IOS libraries. App adheres Apple's Human Interface Guidelines.
 
 ## License
 Rick-And-Morty-App is available under the MIT license. See the LICENSE file for more info.
